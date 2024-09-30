@@ -1,4 +1,5 @@
-# Notes Project
+# FullStackNoteApp
+
 
 ## Description
 This is a full-stack CRUD (Create, Read, Update, Delete) application for managing notes. It is built using Django for the backend and React for the frontend.
